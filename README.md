@@ -250,8 +250,6 @@ ChatBot/
 ├── Chatbot_Anya_Forger (1).ipynb    # Notebook principal com todo o código
 ├── README.md                         # Este arquivo
 ├── requirements.txt                  # Dependências do projeto
-├── GUIA_APRESENTACAO_PROFESSOR.md   # Guia para apresentação
-└── ANALISE_CONFORMIDADE_PROJETO.md  # Análise de conformidade
 ```
 
 ## 🎯 Funcionalidades Implementadas
